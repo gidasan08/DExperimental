@@ -1,2 +1,2 @@
-# Dise-o-Experimental
+# DExperimental
 Curso MCQIA
